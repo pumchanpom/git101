@@ -1,2 +1,2 @@
 # git101
-html file
+[First HTML Page and Commit](index.html)
